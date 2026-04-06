@@ -51,7 +51,7 @@ GitHub Actions
 
 ---
 
-## 📁 Project Structure  
+## 📁 Project Structure
 
 MedAI-DevOps-Imaging-Suite/
 ├── backend/                  ← Python backend
@@ -61,13 +61,13 @@ MedAI-DevOps-Imaging-Suite/
 │
 ├── frontend/                 ← Frontend (optional)
 │
-├── datasets/                 ← Medical imaging datasets
+├── datasets/                 ← Medical imaging data
 │
-├── docker/                   ← Docker setup
+├── docker/                   ← Docker configuration
 │   └── Dockerfile
 │
 ├── .github/
 │   └── workflows/            ← CI/CD pipelines
 │
-├── requirements.txt  
-└── README.md  
+├── requirements.txt          ← Dependencies
+└── README.md
